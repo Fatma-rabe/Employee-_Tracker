@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # darb
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Employee-_Tracker
+>>>>>>> 2bb6400e0cbb815b04ceeb7d31f49a276fb983f5
